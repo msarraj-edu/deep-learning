@@ -1,0 +1,2 @@
+I was struggling with the get_batches function, then I found a thread on the forums that addresses the same problem. So, I used that code snippet that I found there (with slight adjustments). Of course, I did that after fully understanding each line/function in that snippet . I did so with the understanding that this is permitted. If this is  a violation of the honor code, I would be more than pleased to recode it.
+Also, the tensorflow version I have is 1.2 , which forced me to add a [0] (in order to avoid size inconsistencies) in the last cell, as suggested by forums too.
